@@ -1,4 +1,5 @@
-AI MyFitnessPal Coach: Analyzing and Improving Eating Patterns
+## AI MyFitnessPal Coach: Analyzing and Improving Eating Patterns
+
 Overview
 This project aims to analyze eating patterns and provide suggestions for improvement, using data from the MyFitnessPal API or CSV files exported from the MyFitnessPal app. The AI-powered coach identifies irregular meal timings and large fluctuations in calorie intake, providing actionable feedback to help users stabilize and optimize their eating habits.
 
